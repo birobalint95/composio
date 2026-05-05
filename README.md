@@ -27,6 +27,16 @@ ao spawn --prompt "Refactor the auth module to use JWT"
 ao dashboard
 ```
 
+## Issue Tracking
+
+Tasks for this project are managed in **Linear**. When spawning a worker session for a Linear issue, use the issue ID directly:
+
+```bash
+ao spawn ALI-5
+```
+
+The agent will fetch the issue title and description from Linear and use them as context for the implementation.
+
 ## Learn More
 
 See the full documentation for details on session management, PR workflows, and dashboard features.
