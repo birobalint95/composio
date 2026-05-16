@@ -41,3 +41,5 @@ The agent will fetch the issue title and description from Linear and use them as
 
 See the full documentation for details on session management, PR workflows, and dashboard features.
 
+John Doe
+
